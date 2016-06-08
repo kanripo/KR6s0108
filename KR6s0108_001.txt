@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:42.133275
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:42
 #+TITLE: 根本大和尚真跡策子等目錄
 #+PROPERTY: CBETA_ID T55n2162
 #+PROPERTY: ID KR6s0108
